@@ -1,4 +1,4 @@
-# Rials Installation
+# Rials Installation, Creating First Controller & Routing 
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Ruby_On_Rails_Logo.svg/1200px-Ruby_On_Rails_Logo.svg.png" width="400" height="100">
 
