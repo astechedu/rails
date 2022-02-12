@@ -1,24 +1,44 @@
-# README
+# Rials Installation
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To develop a web application using Ruby on Rails Framework, you need to install the following software −
 
-Things you may want to cover:
+    Ruby
+    The Rails Framework
+    A Web Server
+    A Database System
 
-* Ruby version
 
-* System dependencies
+Rails Installation on Windows
 
-* Configuration
+    Step 1: Check Ruby Version. First, check if you already have Ruby installed. ...
+    Step 2: Install Ruby
+    Step 3: Install Rails
+    Step 4: Check Rails Version
 
-* Database creation
+# Step 1: Check Ruby Version
 
-* Database initialization
+	ruby -v
+	gem --version
 
-* How to run the test suite
+# Step 2: Install Ruby	
 
-* Services (job queues, cache servers, search engines, etc.)
+  Download rubyinstaller-2.2.2.x.exe (According to requirement)
 
-* Deployment instructions
+# Step 3: Install Rails
 
-* ...
+	C:\> gem install rails
+	C:\> rails --version
+
+# Step 4: Check Rails Version
+
+	C:\> rails -v
+
+## Creating the Blog Application
+
+	C:\> rails new blog
+	C:\> cd blog
+
+## Starting up the Web Server
+
+	C:\> bin/rails server
+
